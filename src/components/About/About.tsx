@@ -1,5 +1,5 @@
 import { Container } from "./styles";
-import VinayakSingh from "../../assets/VinayakSingh.webp";
+import VinayakSingh from "../../assets/Deva.webp";
 import python from "../../assets/python.svg"
 import java from "../../assets/java.svg"
 import wordpress from "../../assets/wordpress.svg";
@@ -23,7 +23,7 @@ export function About() {
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.1 * 1000}>
           <p>
-            Hi there! I'm Vinayak, an enthusiastic Software Engineer skilled in web development, machine learning, and scalable software solutions
+            Hi ! I'm <span className="text-blue-500">Kadari</span><span className="text-red-500">Deva</span>, an enthusiastic Software Engineer skilled in web development, machine learning, and scalable software Developer
           </p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000} style={{ marginTop: "2rem", marginBottom: "2rem" }}>
@@ -33,22 +33,22 @@ export function About() {
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.3 * 1000}>
           <p>
-            I also work with CMS platforms like WordPress and Shopify to streamline content management.
+            I also work with Backend & Database like MongoDB and MySQL to streamline content management.
           </p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={400}>
           <div className="education">
             <h3>Education:</h3>
-            <h4> Master of Computer Applications (MCA)</h4>
-            <p>Vellore Institute of Technology, Chennai | July 2023 - Present</p>
-            <p>8.09 CGPA</p>
+            <h4> B.Tech (Computer Science and Engineering) </h4>
+            <p> GMR Institue of Technology, Rajam | 2023 - 2027</p>
+            <p>CGPA : 8.78</p>
           </div>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={550}>
           <div className="experience">
-             <h3>Experience:</h3><h4>Software Developer</h4>
-            <p>KIWIS AND BROWNIES IT SOLUTIONS | October 2024 - Present</p>
-            <p>Bangalore, India</p>
+            <h3>Experience:</h3><h4>Intenship Experience.</h4>
+            <p>TopNotch Software Solutions. |  2024, 1 Month</p>
+            <p>Visakhapatnam</p>
           </div>
         </ScrollAnimation>
 

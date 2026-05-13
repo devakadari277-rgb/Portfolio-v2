@@ -19,22 +19,22 @@ export function Project() {
                 <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
               </svg>
               <div className="project-links">
-                <a href="https://github.com/CodeVinayak/MultilingualVQA" target="_blank" rel="noreferrer">
+                <a href="https://github.com/devakadari277-rgb/Dev77project" target="_blank" rel="noreferrer">
                   <img src={githubIcon} alt="GitHub" />
                 </a>
               </div>
             </header>
             <div className="body">
-              <h3>Multilingual VQA Vision-Language Model</h3>
+              <h3>Url - Malware Detector</h3>
               <p>
-                Fine-tuned Qwen2.5-VL for visual question answering across 14 languages with optimized preprocessing.
+                Malware analysis detects, studies, and prevents harmful cyberattacks on systems.
               </p>
             </div>
             <footer>
               <ul className="tech-list">
                 <li>Python</li>
-                <li>Qwen2.5-VL</li>
-                <li>Unsloth</li>
+                <li>Flask</li>
+                <li>Sqlite</li>
               </ul>
             </footer>
           </div>
@@ -45,18 +45,18 @@ export function Project() {
             <header>
               <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b" strokeWidth="1" strokeLinecap="round" strokeLinejoin="round"> <title>Folder</title> <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path> </svg>
               <div className="project-links">
-                <a href="https://github.com/CodeVinayak/Serverless-Voting-Application" target="_blank" rel="noreferrer">
+                <a href="https://github.com/devakadari277-rgb/Finance" target="_blank" rel="noreferrer">
                   <img src={githubIcon} alt="Visit site" /></a>
                 {/* <a href="https://vote.vinayaksingh.com" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
                 </a>  */}
-                </div>
+              </div>
             </header>
             <div className="body">
-              <h3>Serverless Voting Application for Programming Languages</h3>
-              <p> Developed a serverless voting app using React, AWS Lambda, API Gateway, and DynamoDB, enabling users to view programming languages, cast votes, and access details through an interactive UI, leveraging serverless architecture for scalability and cost-efficiency. </p>
+              <h3>Finance Tracker</h3>
+              <p> Finance tracker helps monitor income, expenses, savings, and overall financial management. </p>
             </div>
-            <footer> <ul className="tech-list"> <li>AWS Lambda</li> <li>API Gateway</li> <li>DynamoDB</li> </ul> </footer>
+            <footer> <ul className="tech-list"> <li>Flask</li> <li>python</li> <li>sqlite</li> </ul> </footer>
           </div>
         </ScrollAnimation>
 
@@ -65,23 +65,23 @@ export function Project() {
             <header>
               <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " strokeWidth="1" strokeLinecap="round" strokeLinejoin="round"><title>Folder</title> <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path> </svg>
               <div className="project-links">
-                <a href="https://github.com/CodeVinayak/AI-Chatbot-Assistant" target="_blank" rel="noreferrer">
+                <a href="https://github.com/devakadari277-rgb/Finance-Budget-Tracker" target="_blank" rel="noreferrer">
                   <img src={githubIcon} alt="Visit site" /> </a>
-                <a href="https://ai-chatbot-t8fn.onrender.com" target="_blank" rel="noreferrer">
+                <a href="https://github.com/devakadari277-rgb/Finance-Budget-Tracker" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" /></a>
               </div>
             </header>
             <div className="body">
-              <h3>GeniusBot: AI-Powered Assistance with PDF Insight</h3>
+              <h3>Finance Budget Tracking</h3>
               <p>
-                Developed an interactive chatbot application using Streamlit, OpenAI's GPT-3.5-turbo language model, and PyPDF2 for PDF text extraction, enabling users to ask context-based questions on uploaded PDFs and general queries.
+                Finance tracker helps monitor income, expenses, savings, and overall financial management.
               </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>Streamlit</li>
-                <li>PyPDF2</li>
-                <li>LangChain</li>
+                <li>React</li>
+                <li>Angular Js</li>
+                <li>MongoDB</li>
               </ul>
             </footer>
           </div>
@@ -93,24 +93,26 @@ export function Project() {
             <header>
               <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
               <div className="project-links">
-                <a href="https://github.com/CodeVinayak/MediBook-Medical-Appointment-Scheduler-with-Health-History" target="_blank" rel="noreferrer">
+                <a href="https://github.com/naveen957359/Buy-smart" target="_blank" rel="noreferrer">
                   <img src={githubIcon} alt="Visit site" />
                 </a>
-                <a href="https://medibook.vinayaksingh.com" target="_blank" rel="noreferrer">
+                <a href="https://github.com/naveen957359/Buy-smart" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
                 </a>
               </div>
             </header>
             <div className="body">
-              <h3>MediBook: Medical Appointment Scheduler with Health History</h3>
-              <p>Developed a secure medical appointment management platform with CRUD functionality, utilizing role-based access control, encryption techniques, and a robust MySQL database with normalized schema design and stored procedures for efficient scheduling, data privacy, and reliable retrieval of patient records.</p>
+              <h3>Buy-Smart</h3>
+              <p>
+                Buy Smart Shopping App helps users compare prices, track discounts, find deals, and save money while shopping online using smart AI-based features.
+              </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>PHP</li>
+                <li>React</li>
                 <li>HTML</li>
                 <li>CSS</li>
-                <li>MySQL</li>
+                <li>MongoDB</li>
               </ul>
             </footer>
           </div>
@@ -124,61 +126,32 @@ export function Project() {
                 <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
               </svg>
               <div className="project-links">
-                <a href="https://github.com/CodeVinayak/Real-Time-Hand-Gesture-Driven-3D-Object-Manipulation" target="_blank" rel="noreferrer">
+                <a href="https://github.com/" target="_blank" rel="noreferrer">
                   <img src={githubIcon} alt="Visit site" />
                 </a>
-                <a href="https://youtu.be/NOm-3MynPLE" target="_blank" rel="noreferrer">
+                <a href="https://github.com/" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
                 </a>
               </div>
             </header>
             <div className="body">
-              <h3>Real-Time Hand Gesture-Driven 3D Object Manipulation</h3>
-              <p>Developed a real-time hand gesture recognition system for intuitive 3D object manipulation. Leveraged a multimodal approach integrating OpenCV for video processing, MediaPipe for hand detection/landmark extraction, and scikit-learn for machine learning model training. Achieved 95.2% accuracy in hand gesture classification with efficient real-time performance.</p>
+              <h3>Library Management System.</h3>
+              <p>Library Management System helps manage books, issue records, returns, and student library activities efficiently.</p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>OpenCV</li>
-                <li>MediaPipe</li>
-                <li>scikit-learn</li>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JAVASCRIPT</li>
+                <li>PHP</li>
+                <li>MySQL</li>  
               </ul>
             </footer>
           </div>
         </ScrollAnimation>
 
-        <ScrollAnimation animateIn="flipInX">
-          <div className="project">
-            <header>
-              <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b" strokeWidth="1" strokeLinecap="round" strokeLinejoin="round">
-                <title>Folder</title>
-                <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
-              </svg>
-              <div className="project-links">
-                <a href="https://github.com/CodeVinayak/Jupyter-Notebook/tree/main/Credit%20Risk%20Analysis" target="\_blank" rel="noreferrer">
-                  <img src={githubIcon} alt="Visit site" />
-                </a>
-                {/* <a href="https://github.com/CodeVinayak/Jupyter-Notebook/blob/main/Credit%20Risk%20Analysis/Credit_Risk_Analysis.ipynb" target="\_blank" rel="noreferrer">
-                  <img src={externalLink} alt="Visit site" />
-                </a> */}
-              </div>
-            </header>
-            <div className="body">
-              <h3>Credit Risk Analysis Project</h3>
-              <p>
-                Developed a highly accurate credit risk classification model using XGBoost, achieving 100% precision, recall, and F1-scores for predicting loan defaults.Implemented rigorous data preprocessing, feature engineering, and hyperparameter tuning on imbalanced credit risk data, employing ensemble methods, cross-validation, and model interpretation techniques.
-              </p>
-            </div>
-            <footer>
-              <ul className="tech-list">
-                <li>XGBoost</li>
-                <li>Pandas</li>
-                <li>Matplotlib</li>
-              </ul>
-            </footer>
-          </div>
-        </ScrollAnimation>
 
-        
+
         {/* <ScrollAnimation animateIn="flipInX">
           <div className="project">
             <header>

@@ -4,9 +4,9 @@ import phoneIcon from "../../assets/phone-icon.svg"
 import { Form } from "../Form/Form";
 
 
-export function Contact(){
+export function Contact() {
 
-  return(
+  return (
     <Container id="contact">
       <header>
         <h2>Contact</h2>
@@ -15,13 +15,13 @@ export function Contact(){
       </header>
       <div className="contacts">
         <div>
-        <a href="mailto:vinayak@vinayaksingh.com"><img src={emailIcon} alt="Email" /></a> 
-          <a href="mailto:vinayak@vinayaksingh.com">vinayak@vinayaksingh.com</a>
+          <a href="mailto:devakadari277@gmail.com"><img src={emailIcon} alt="Email" /></a>
+          <a href="mailto:devakadari277@gmail.com">devakadari277@gmail.com</a>
         </div>
         <div>
-        <a href="tel:+919630576848"><img src={phoneIcon} alt="Phone No" /></a>
-          <a href="tel:+919630576848">(+91) 9630576848</a>
-        </div>  
+          <a href="tel:+919398496327"><img src={phoneIcon} alt="Phone No" /></a>
+          <a href="tel:+919398496327"> 9398496327</a>
+        </div>
       </div>
       <Form></Form>
     </Container>
