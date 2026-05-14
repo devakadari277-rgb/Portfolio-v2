@@ -46,7 +46,7 @@ export function About() {
         <div className="experience">
           <h3>Experience:</h3>
           <h4>Internship Experience</h4>
-          <p>TopNotch Software Solutions | 2024, 1 Month</p>
+          <p>TopNotch Software Solutions | 2025, 1 Month</p>
           <p>Visakhapatnam</p>
         </div>
 
